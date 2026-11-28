@@ -1,5 +1,5 @@
 # 19xx - 749-02-001 - STATUS CONTROL AND MEMORY CANCEL SCHEMATIC - ISS 2.jpg
-Wiki page: [M749](../../../../PAGES/M749.md)
+Wiki page: [M749](../)
 
 
 - **Year:** unknown (title block (read by eye))

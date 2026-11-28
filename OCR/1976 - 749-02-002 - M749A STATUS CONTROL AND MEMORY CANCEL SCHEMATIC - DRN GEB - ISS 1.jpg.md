@@ -1,5 +1,5 @@
 # 1976 - 749-02-002 - M749A STATUS CONTROL AND MEMORY CANCEL SCHEMATIC - DRN GEB - ISS 1.jpg
-Wiki page: [M749](../../../../PAGES/M749.md)
+Wiki page: [M749](../)
 
 
 - **Year:** 1976 (title block date)

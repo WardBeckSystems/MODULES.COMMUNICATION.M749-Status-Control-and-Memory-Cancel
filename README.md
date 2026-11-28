@@ -1,6 +1,6 @@
 # M749 Status Control and Memory Cancel · Communication
 
-Ward-Beck Systems M749, 1970|3. Wiki page: [M749 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M749.html)
+Ward-Beck Systems M749, 1970|3. Wiki page: [M749 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M749-Status-Control-and-Memory-Cancel/)
 
 | Folder | What is in it | Files |
 |---|---|---|
